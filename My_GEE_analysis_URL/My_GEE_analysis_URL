@@ -1,3 +1,5 @@
-Step1-Preprocessing + feature extraction: https://code.earthengine.google.com/609095f14b72be5955c1f4fc78cd498d
-Step2-Take samples and train three machine learning models: https://code.earthengine.google.com/bfee3d7332e825ccfe2875340ca4c373
-Step3-Map and export relevant information at ward level: https://code.earthengine.google.com/2a755c67c3a191093c0285f59ecbb2cf
+Nairobi-Step1-Data import + Preprocessing + feature extraction: https://code.earthengine.google.com/609095f14b72be5955c1f4fc78cd498d
+Nairobi-Step2-Take samples + train three machine learning models + validate model accuracy: https://code.earthengine.google.com/bfee3d7332e825ccfe2875340ca4c373
+Nairobi-Step3-Map deprived areas + export relevant information at ward level: https://code.earthengine.google.com/2a755c67c3a191093c0285f59ecbb2cf
+DaresSalaam-Step1: https://code.earthengine.google.com/00e48b026effd07a89aeef46c7a436a8
+DaresSalaam-Step2: https://code.earthengine.google.com/13b56c7832c24856d9507d3acfd00b69
